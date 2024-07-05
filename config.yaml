@@ -17,7 +17,7 @@ settings:
 monitors:
   - id: rasmusj-website # unique identifier
     name: rasmusj-website
-    description: 'My website' # default=empty
+    description: 'Website about Rasmus Joergensen' # default=empty
     url: 'https://rasmusj.dk/' # URL to fetch
     method: GET # default=GET
     expectStatus: 200 # operational status, default=200
